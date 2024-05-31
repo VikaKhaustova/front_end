@@ -7,7 +7,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url(grzegorz-walczak-yoIIPcrWhjI-unsplash.jpg);
+    background-color: rgb(150, 28, 138);
     background-size: cover;
     display: flex;
     color: white;
