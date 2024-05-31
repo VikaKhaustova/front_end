@@ -122,13 +122,3 @@ footer {
     justify-content: center;
     color: white;
 }
-
-.about {
-    background: black;
-    color: white;
-}
-
-.about p {
-    font-size: 1.5em;
-    width: 50%;
-}
